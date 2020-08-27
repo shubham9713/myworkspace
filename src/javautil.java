@@ -1,5 +1,8 @@
-public class hello{
+public class javautil{
 
-  hey shubham
-java util
+ 
+private void sysout() {
+	System.out.println("java util");
+
+}
 }
